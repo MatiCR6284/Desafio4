@@ -1,0 +1,55 @@
+.logonegro {
+    width: 25%;
+}
+
+main {
+    display: block;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+
+section {
+    display: block;
+    background-color: #28a745;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 30px;
+}
+
+.fotopie {
+    width: 125px;
+}
+
+footer {
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 30px;
+    display: block;
+    align-content: center;
+}
+
+i {
+    color: #707070;
+}
+
+@font-face {
+    font-family: "Roboto-Medium";
+    src: url("../fonts/Roboto-Medium.ttf");
+}
+
+@font-face {
+    font-family: "Roboto-Light";
+    src: url("../fonts/Roboto-Light.ttf")
+}
+
+h2, h5, small, input, li, label {
+    font-family: "Roboto-Medium", serif;
+    color: #212529;
+}
+
+p {
+    font-family: "Roboto-Light", serif;
+}
